@@ -116,10 +116,8 @@ def exgboost():
 def image():
 
     # URL you want to embed in the iframe
-    tableau_url = "https://public.tableau.com/app/profile/siranjeevi.v/viz/retail_sales_final_guvi_project/Dashboard1?publish=yes"
+    tableau_url = "https://public.tableau.com/app/profile/siranjeevi.v/viz/Singapore-Resale-Flat-Prices-Predicting/Dashboard1?publish=yes"
 
-    
-    
     
     # Create a button
     if st.button('Click View Live Dashboard'):
